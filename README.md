@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/BuntyRaghani/spring-boot-jasypt.svg?style=svg)](https://circleci.com/gh/BuntyRaghani/spring-boot-jasypt)
+[![CircleCI](https://circleci.com/gh/BuntyRaghani/spring-boot-jasypt.svg?style=svg)](https://circleci.com/gh/BuntyRaghani/spring-boot-jasypt) &nbsp; [![Build Status](https://www.travis-ci.com/BuntyRaghani/spring-boot-jasypt.svg?branch=main)](https://www.travis-ci.com/BuntyRaghani/spring-boot-jasypt)
+
 # Spring Boot Jasypt
 
 **A simple Spring Boot app to encrypt and decrypt secrets using Jasypt.**
